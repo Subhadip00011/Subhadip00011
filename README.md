@@ -20,7 +20,7 @@ The ProjectDesciption is what you need to replicate using your code except the h
 </head>
 <body>
 <header>
-    <h1>Priyanshu Singh</h1>
+    <h1>Subhadip sarkar</h1>
     <nav>
         <a href="www.google.co.in">One</a>
         <a href="https://www.youtube.com/">Two</a>
